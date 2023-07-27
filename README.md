@@ -4,8 +4,10 @@ Forked from https://github.com/metabase/metabase-buildpack as metabase does not 
 
 Add the following to your app.json:
 
+```
 "buildpacks": [
   {
     "url": "https://github.com/kaizan-ai/metabase-buildpack"
   }
 ]
+```
